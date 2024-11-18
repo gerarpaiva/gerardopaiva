@@ -1,0 +1,4 @@
+# Archivos y carpetas comunes que no deben subirse
+node_modules/
+.DS_Store
+*.log

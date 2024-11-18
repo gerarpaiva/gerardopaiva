@@ -1,6 +1,6 @@
 # Gerardopaiva.com
 
-Este repositorio contiene el código fuente de mi sitio web personal, alojado en GitHub Pages.
+Este repositorio contiene el código fuente de mi sitio web personal.
 
 ## Tecnologías
 
@@ -9,4 +9,4 @@ Este repositorio contiene el código fuente de mi sitio web personal, alojado en
 
 ## Contacto
 
-Puedes contactarme en mi correo personal: gerardopaiva@example.com
+Puedes contactarme en mi correo personal: contacto@gerardopaiva.com
